@@ -29,7 +29,7 @@ define('DB_USER', 'jjkx4xoo0y');
 define('DB_PASSWORD', '15i4yzjh14mlkyhy1i4mj22jill3jxiixjll5zk5');
 
 /** MySQL主机 */
-define('DB_HOST', '	w.rdc.sae.sina.com.cn');
+define('DB_HOST', 'w.rdc.sae.sina.com.cn');
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8');
